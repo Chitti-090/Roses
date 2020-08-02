@@ -2,4 +2,7 @@
 # my first document on Github
 
 Name=input("Enter your Name : ")
-print(f" Wow {Name}!!!, that's a pretty name")
+
+def praise(x):
+    print(f" Wow {x}!!!, that's a pretty name")
+praise(Name)
