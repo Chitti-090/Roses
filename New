@@ -1,0 +1,5 @@
+# 02-08-20
+# my first document on Github
+
+Name=input("Enter your Name : ")
+print(f" Wow {Name}!!!, that's a pretty name")
